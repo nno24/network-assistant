@@ -1,0 +1,5 @@
+1. Format hard drive to ntfs using gparted live cd.
+https://gparted.org/display-doc.php?name=gparted-live-manual
+2. Install w10, enter boot menu select from CD/DVD. Bios settings:
+Secure boot: Legacy support enabled.
+3. setter opp bruker: nova-assistant, psw: nova
